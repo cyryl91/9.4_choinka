@@ -1,0 +1,14 @@
+{
+  "name": "kodilla_9.4_choinka",
+  "version": "1.0.0",
+  "description": "taska kodilla choinka",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domaslawski",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
