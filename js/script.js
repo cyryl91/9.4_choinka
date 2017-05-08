@@ -1,5 +1,4 @@
 function drewTree(iloscWierszy){ 
-  debugger;
   for( var i=1 ; i <= iloscWierszy; i++){
      var star= '';
     for( var j=0 ; j<2*i-1; j++){
